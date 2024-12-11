@@ -99,5 +99,6 @@
 		"@types/react-google-recaptcha": "^2.1.9",
 		"prisma": "^5.16.1"
 	},
-	"type": "module"
+	"type": "commonjs"
+
 }
